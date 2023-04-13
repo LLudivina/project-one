@@ -9,12 +9,15 @@ How:
 We will gather datasets from National Centers for Environmental Information
 
 Work to be done:
+
 Analyzing the data
+
 Selecting a model
 
-Contact person: Valerie Chau
 
-Roles (Tentative): 
+# Contact person: Valerie Chau
+
+# Roles (Tentative): 
 	Valerie – collecting dataset. 
 	Git hub  - Ludi
 	Database – postgres
