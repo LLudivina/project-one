@@ -8,6 +8,7 @@ Guam is an organized, unincorporated territory of the United States in the Micro
 ## Where we get some data
 We will gather datasets from National Centers for Environmental Information
 
+## Reports on the effects of Climate Change for Guam 
 Here is a 2020 report on how climate change is affecting Guam: 
 https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/82772ba9-def5-415e-99ce-73804034b077/content
 
