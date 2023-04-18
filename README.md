@@ -25,7 +25,7 @@ Since most of the farm areas are around the international airport, weather data 
 The data comes from the National Centers for Environmental Information National Oceanic and Atmospheric Administration (NOAA). We collected a total of 11 CSV files to analyze about 10 years of climate data for Guam.  The data contains information about liquid precipitation, sea level pressure, temperatures, wind, atmospheric pressure, relative humidity and more. We also gathered data from National Centers for Environmental Information
 
 ## Work in progress 
-# Database
+## Database
 We are using PostgreSQL for this project.
 7.1.5 Create ERDs
 https://www.quickdatabasediagrams.com/
@@ -34,7 +34,7 @@ https://www.quickdatabasediagrams.com/
 3. Data used for testing
 4. provide information on how many tables were created and a summary of the process.
 
-# Model
+## Model
 1.	Machine learning model will be covered in class today:
 Note: Analyze the input data and if the input data is labeled, choose a supervised learning model.
 Analyze the output data and if the output of the model should predict a value or outcome, choose regression.
@@ -49,7 +49,7 @@ We need to answer:
 Ex. Linear regression.
 3.	Include a summary of the process.
 
-Visuals
+## Visuals
 We will use Tableau for this project. We need the following:
 1.	Storyboard on Google Slide(s) ?
 2.	 Description of the tool(s) that will be used to create final dashboard 
