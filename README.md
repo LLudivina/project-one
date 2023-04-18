@@ -29,7 +29,8 @@ The data comes from the National Centers for Environmental Information National 
 We are using PostgreSQL for this project.
 7.1.5 Create ERDs
 https://www.quickdatabasediagrams.com/
-1. We need an Entity Relation Diagram (ERD)
+## Entity Relation Diagram (ERD)
+    The tool we used to map out our data was Quick DBD. Quick DBD allows us to visualize the relationship between our data and the variables within it. The tables we decided to create were a main table that consisted of the coordinates of the Guam international airport, and the date and time for each of the recorded values. 
 2. A document describing the ERD (schema)
 3. Data used for testing
 4. provide information on how many tables were created and a summary of the process.
