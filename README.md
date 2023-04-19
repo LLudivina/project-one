@@ -23,8 +23,21 @@ Since most of the farm areas are around the international airport, weather data 
 
 The data comes from the National Centers for Environmental Information National Oceanic and Atmospheric Administration (NOAA). We collected a total of 11 CSV files to analyze about 10 years of climate data for Guam.  The data contains information about liquid precipitation, sea level pressure, temperatures, wind, atmospheric pressure, relative humidity and more. We also gathered data from National Centers for Environmental Information
 
+<<<<<<< HEAD
+## Work in progress 
+## Database
+We are using PostgreSQL for this project.
+7.1.5 Create ERDs
+https://www.quickdatabasediagrams.com/
+## Entity Relation Diagram (ERD)
+    The tool we used to map out our data was Quick DBD. Quick DBD allows us to visualize the relationship between our data and the variables within it. The tables we decided to create were a main table that consisted of the coordinates of the Guam international airport, and the date and time for each of the recorded values. 
+2. A document describing the ERD (schema)
+3. Data used for testing
+4. provide information on how many tables were created and a summary of the process.
+=======
 ## Extract, Transform, and Load (ETL) Process
 A total of 11 csv files were extracted from NOAA.  During the transformation process, the unnecessary columns were removed.  Further data transformation was done using python to split columns and more. For the loading phase, an Entity Relation Diagram (ERD) was created online using Quick DBD.  The schema can be found in the resources folder.   The clean climate data was then loaded into a PostgreSQL Database.  Tables for the clean data were then created. 
+>>>>>>> 9068cd54a76b0cb484424cd8d12ffb3ee9c8b82d
 
 ## Machine Learning 
 Unsupervised machine learning was selected for this project since we first want to see what the data tells us. 
