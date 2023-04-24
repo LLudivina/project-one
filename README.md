@@ -9,19 +9,18 @@ Guam is an organized, unincorporated territory of the United States in the Micro
 ![about Guam's location](https://user-images.githubusercontent.com/117696999/232550889-2d18f347-6ffe-43a7-9108-77428d1a822c.png)
 
 ## Our Story
-As a group, we wanted to focus on a topic that would be of interest to everyone in the group.  Our topic of interest became climate change because it can affect people, cities, and farming. 
+As a group, we wanted to focus on a topic that would be of interest to everyone in the group.  Our topic of interest became climate change because it can affect people, cities, and farming. Papayas, bananas, coconuts, breadfruit, mangoes, guavas, mountain apples, limes, and tangerilles flourish in the island's ideal tropical climate.
 
-Using Guam as an example, we looked at past climate data based on temperature, precipitation, and more.  We focused on Guam because it is a small island to zoom in on, but also because “the number of farms and land in farms more than doubled, and the value of agricultural production increased”( census,2017).
+Using Guam as an example, we looked at past climate data based on temperature, precipitation, visibilty, sea level pressure and more.  We focused on Guam because it is a small island whose people are directly affected by what larger nations are doing.  US national defense spending is the main driver of Guam's economy, followed closely by tourism and other services. 
 
-Our question for this project was whether we can predict climate data for Guam for the year 2024.  Our hope is that we can predict how it would affect the country and make suggestions on how farmers can cope with the changing climate. As recommended by our instructor, we can use machine learning to  analyze 10 years of Guam’s climate data and predict data for the year 2024. According to the pacific farmer organizations, “ The farms of subsistence and small commercial producers are primarily located in the villages of Barrigada, Dededo, Merizo, Mangilao, and Yigo”. 
+Our question for this project was whether we can predict climate data for Guam for the year 2024 from past years' data 2013 - 2023.  Our hope is that we can use the measurements of how climate change is affecting the Guam over the past 10 years to predict what their next few years will be like, so that people can be educated world wide about how the devasting effects of climate change are affecting small territories and nations. 
 
 ## Data Source
 Since most of the farm areas are around the international airport, weather data from that station was obtained. According to the pacific farmer organizations, “ The farms of subsistence and small commercial producers are primarily located in the villages of Barrigada, Dededo, Merizo, Mangilao, and Yigo”. These areas are located around Guam's interntional airport. 
 
 ![Alt text](resources/1.png)
 
-
-The data comes from the National Centers for Environmental Information National Oceanic and Atmospheric Administration (NOAA). We collected a total of 11 CSV files to analyze about 10 years of climate data for Guam.  The data contains information about liquid precipitation, sea level pressure, temperatures, wind, atmospheric pressure, relative humidity and more. We also gathered data from National Centers for Environmental Information
+The data comes from the National Centers for Environmental Information National Oceanic and Atmospheric Administration (NOAA). We collected a total of 11 CSV files to analyze about 10 years of climate data for Guam.  The data contains information about liquid precipitation, sea level pressure, temperatures, wind, atmospheric pressure, relative humidity and more. We also gathered data from National Centers for Environmental Information. 
 
 # Extract, Transform, and Load (ETL) Process
 A total of 11 csv files were extracted from NOAA.  During the transformation process, the unnecessary columns were removed.  Further data transformation was done using python to split columns and more. For the loading phase, an Entity Relation Diagram (ERD) was created online using Quick DBD.  The schema can be found in the resources folder.   The clean climate data was then loaded into a PostgreSQL Database.  Tables for the clean data were then created. 
