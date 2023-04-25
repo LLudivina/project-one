@@ -11,7 +11,9 @@ CREATE TABLE IF NOT EXISTS "SKY" (
     "Date" timestamp PRIMARY KEY NOT NULL,
     "SKY_ceiling" int   NOT NULL,
     "SKY_ceilingQC" char(1)   NOT NULL,
-    "SKY_ceilingDC" char(1)   NOT NULL
+    "SKY_ceilingDC" char(1)   NOT NULL, 
+    "SKY_CAVOK" char(1) NOT NULL
+
 );
 
 CREATE TABLE  IF NOT EXISTS "VISIBILITY" (
