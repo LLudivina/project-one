@@ -37,9 +37,11 @@ Unsupervised machine learning was selected for this project since we first want 
 We will use Tableau for this project.  As a test run, Tableau will be used to do project status presentation in class.  Data was uploaded into the Tableu, worksheets were created to work with the data, and dashboards were created to arrange the visuals.  Finally, an overall story was created using the dashboards.  Here is the link to our dashboard <https://public.tableau.com/shared/YY85W397W?:display_count=n&:origin=viz_share_link>
 
 <img width="637" alt="Screen Shot 2023-04-24 at 7 10 02 PM" src="https://user-images.githubusercontent.com/117120227/234157465-71611a14-e335-4969-a383-35623217eef4.png">
+
  The first dashboard that we created displayed the relationship between Wind Speed and Wind Direction over the last ten years. The top chart captures the wind's average direction between each year in angular degrees in a clockwise direction. The year 2015 had the highest average wind movement of 136 angular degrees. This would be equivalent to winds pushing in a SouthEast direction. This year, 2023, has experienced less movement with a average wind direction of 86 angular degrees, which is equivalent to winds pushing East. 
 
-<img width="633" alt="Screen Shot 2023-04-24 at 8 05 06 PM" src="https://user-images.githubusercontent.com/117120227/234164413-96f80c2a-9fc6-4429-a8a3-272b7cda9755.png">
+<img width="633" alt="Screen Shot 2023-04-24 at 8 06 11 PM" src="https://user-images.githubusercontent.com/117120227/234164549-951fce58-cb84-4359-b98f-6dc7d695b470.png">
+
 
 
 <img width="637" alt="Screen Shot 2023-04-24 at 7 12 54 PM" src="https://user-images.githubusercontent.com/117120227/234157504-492073e6-590c-48eb-a370-40d313ae9e5c.png">
