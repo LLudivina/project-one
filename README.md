@@ -36,6 +36,13 @@ Unsupervised machine learning was selected for this project since we first want 
 ## Data Visualization
 We will use Tableau for this project.  As a test run, Tableau will be used to do project status presentation in class.  Data was uploaded into the Tableu, worksheets were created to work with the data, and dashboards were created to arrange the visuals.  Finally, an overall story was created using the dashboards.  Here is the link to our dashboard <https://public.tableau.com/shared/YY85W397W?:display_count=n&:origin=viz_share_link>
 
+<img width="637" alt="Screen Shot 2023-04-24 at 7 10 02 PM" src="https://user-images.githubusercontent.com/117120227/234157465-71611a14-e335-4969-a383-35623217eef4.png">
+
+<img width="637" alt="Screen Shot 2023-04-24 at 7 10 05 PM" src="https://user-images.githubusercontent.com/117120227/234157475-c3a32651-d9f4-468a-a01b-775dd4a8da8f.png">
+
+<img width="637" alt="Screen Shot 2023-04-24 at 7 12 54 PM" src="https://user-images.githubusercontent.com/117120227/234157504-492073e6-590c-48eb-a370-40d313ae9e5c.png">
+
+
 ### Resources
 https://www.ncei.noaa.gov/access/search/data-search/global-hourly
 
