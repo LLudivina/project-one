@@ -31,7 +31,34 @@ A total of 11 csv files were extracted from NOAA.  During the transformation pro
 The schema can be found in the resources folder.   The clean climate data was then loaded into a PostgreSQL Database.  Tables for the clean data were then created. 
 
 ## Machine Learning 
-Unsupervised machine learning was selected for this project since we first want to see what the data tells us. 
+Unsupervised machine learning was selected for this project since we want to see what the data tells us.
+
+The data that was loaded into the database was then used to analyze the core-weather values.  First, the required dependencies were imported.
+
+Pandas and Jupyter notebook were then used to preprocess the dataset for Principal Component Analysis (PCA) algorithm.
+
+PCA was then used to reduce the dimensions of the x DataFrame to three principal component, which were then placed in a new DataFrame
+
+The best value for K and the predicted K clusters were found using the K-means algorithm. In this case, the best value for k was 4.
+
+
+![Alt text](resources/Elbow%20Curve.png)
+
+
+
+
+Finally, a scatter plot was created using Plotly Express and hvplot. 
+
+![Alt text](resources/3d%20scatter%20.png)
+
+
+The hvplot.table( ) function was used to create a table with all the core-weather values. This table is found within the code. 
+
+A correlation matrix was also created to visualize the correlation coefficient between all the core- weather values. 
+
+
+![Alt text](resources/corrMatrix.png)
+
 
 ## Data Visualization
 We will use Tableau for this project.  As a test run, Tableau will be used to do project status presentation in class.  Data was uploaded into the Tableu, worksheets were created to work with the data, and dashboards were created to arrange the visuals.  Finally, an overall story was created using the dashboards.  Here is the link to our dashboard <https://public.tableau.com/shared/YY85W397W?:display_count=n&:origin=viz_share_link>
