@@ -70,7 +70,7 @@ We will use Tableau for this project.  As a test run, Tableau will be used to do
    
 <img width="633" alt="Screen Shot 2023-04-24 at 8 06 11 PM" src="https://user-images.githubusercontent.com/117120227/234164549-951fce58-cb84-4359-b98f-6dc7d695b470.png">
    
-   
+   In the second dashboard we created visuals to display the average temperature and visible distance for over the last 10 years. 
 
 
 <img width="637" alt="Screen Shot 2023-04-24 at 7 12 54 PM" src="https://user-images.githubusercontent.com/117120227/234157504-492073e6-590c-48eb-a370-40d313ae9e5c.png">
