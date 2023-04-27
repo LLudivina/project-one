@@ -7,6 +7,11 @@ Using the US territory Guam as an example of a small area affected greatly by th
 destroying animals' habitats by clearing forsts, overfishng and over-hunting has devasstated much of the Earth's wildlife.
 These activities have been having more and more of an effect on our planet as the human popultion level has increased dramatically over the past 50 years and it seems as there is no end in sight.
 
+## How can we help each other and our planet?
+One way is to study the changes to the Earth's climate and report them, as scientist are doing.
+Another way is to create complelling stories to persuade more humans to look at the destruction that human actions have caused and are still causing.
+Examples of small countries or small territories could maybe help in this effort if their stories are widely told and shared. one such small territory is Guam.
+
 ## Interesting facts about Guam
 Guam is an organized, unincorporated territory of the United States in the Micronesia subregion of the western Pacific Ocean. Guam's capital is Hagåtña, and the most populous village is Dededo. Guam became a U.S. territory in 1898 and placed under the jurisdiction of the U.S. Navy. The Guam Organic Act of 1950 conferred U.S. citizenship on Guamanians and established the territory's government. The Act also transferred Federal jurisdiction over Guam from the U.S. Navy to the Department of the Interior. Here are some interesting facts about Guam:  https://www.dewittguam.com/an-independent-territory-guams-american-history/
 
