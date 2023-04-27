@@ -36,6 +36,14 @@ The data files are in csv format with daily measurements of all climate variable
 
 The data comes from the National Centers for Environmental Information National Oceanic and Atmospheric Administration (NOAA). We collected a total of 11 CSV files to analyze about 10 years of climate data for Guam.  The data contains information about liquid precipitation, sea level pressure, temperatures, wind, atmospheric pressure, relative humidity and more. We also gathered data from National Centers for Environmental Information
 
+## Preparing Data
+Using Jupyter Notebook and pandas: 
+Dropping and Separating columns
+Columns containing integer values are the main focus of our climate prediction analysis.  There are 6 main climate variables: wind, sky cloud level, visibility, air temperature, dew temperature and sea level pressure.Related quality measures for each climate variable were kept.
+
+
+
+
 # Extract, Transform, and Load (ETL) Process
 A total of 11 csv files were extracted from NOAA.  During the transformation process, the unnecessary columns were removed.  Further data transformation was done using python to split columns and more. For the loading phase, an Entity Relation Diagram (ERD) was created online using Quick DBD.  The schema can be found in the resources folder.   The clean climate data was then loaded into a PostgreSQL Database.  Tables for the clean data were then created. 
 
@@ -43,7 +51,7 @@ A total of 11 csv files were extracted from NOAA.  During the transformation pro
 Unsupervised machine learning was selected for this project since we first want to see what the data tells us. 
 
 ## Data Visualization
-We will use Tableau for this project.  As a test run, Tableau will be used to do project status presentation in class.  Data was uploaded into the Tableu, worksheets were created to work with the data, and dashboards were created to arrange the visuals.  Finally, an overall story was created using the dashboards.  Here is the link to our dashboard <https://public.tableau.com/shared/YY85W397W?:display_count=n&:origin=viz_share_link>
+We will use Tableau for our visuals.  As a test run, Tableau will be used to do project status presentation in class.  Data was uploaded into the Tableu, worksheets were created to work with the data, and dashboards were created to arrange the visuals.  Finally, an overall story was created using the dashboards.  Here is the link to our dashboard <https://public.tableau.com/shared/YY85W397W?:display_count=n&:origin=viz_share_link>
 
 ### Resources
 https://www.ncei.noaa.gov/access/search/data-search/global-hourly
