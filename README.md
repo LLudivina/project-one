@@ -22,10 +22,14 @@ As a group, we wanted to focus on a topic that would be of interest to everyone 
 
 Using Guam as an example, we looked at past climate data based on temperature, precipitation, and more.  We focused on Guam because it is a small island to zoom in on, and it is actively being affected by climate change with rising sea levels and receding shorelines.
 
-Our question for this project was whether we can predict climate data for Guam for the year 2024.  Our hope is that we can predict how it would affect the country and make suggestions on how farmers can cope with the changing climate. As recommended by our instructor, we can use machine learning to  analyze 10 years of Guam’s climate data and predict data for the year 2024. According to the pacific farmer organizations, “ The farms of subsistence and small commercial producers are primarily located in the villages of Barrigada, Dededo, Merizo, Mangilao, and Yigo”. 
+Our question for this project was whether we can predict climate data for Guam for the year 2024.  Our hope is that we can predict how it would affect the country and make suggestions on how the locals can cope with the changing climate. As recommended by our instructor, we can use machine learning to  analyze 10 years of Guam’s climate data and predict data for the year 2024. According to the pacific farmer organizations, “ The farms of subsistence and small commercial producers are primarily located in the villages of Barrigada, Dededo, Merizo, Mangilao, and Yigo”. 
 
 ## Data Source
-Since most of the farm areas are around the international airport, weather data from that station was obtained. According to the pacific farmer organizations, “ The farms of subsistence and small commercial producers are primarily located in the villages of Barrigada, Dededo, Merizo, Mangilao, and Yigo”. These areas are located around Guam's interntional airport. 
+The data comes from the National Centers for Environmental Information National Oceanic and Atmospheric Administration (NOAA). 
+We collected a total of 11 years of  annual data (from 2013 through 2023),  with measurements of wind direction, wind speed, sky cloud level, visibility distance, dew point temperature, air temperature, and sea level air pressure.
+The data files are in csv format with daily measurements of all climate variables for each day.
+
+
 
 ![Alt text](resources/1.png)
 
