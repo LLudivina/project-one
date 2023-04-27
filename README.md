@@ -25,22 +25,21 @@ A total of 11 csv files were extracted from NOAA.  During the transformation pro
 
 ![Alt text](Update-QuickDBD-export.png)
 
-The schema can be found in the resources folder.   The clean climate data was then loaded into a PostgreSQL Database.  Tables for the clean data were then created. 
+The schema can be found in the resources folder.   The clean climate data was then loaded into a PostgreSQL Database.  Tables for the clean data were then created by importing the 6 climate csv files containing all 11 years of data in each. 
 
 ## Machine Learning 
 Unsupervised machine learning was selected for this project since we want to see what the data tells us.
 
-The data that was loaded into the database was then used to analyze the core-weather values.  First, the required dependencies were imported.
+The data that was loaded into the database was then used to analyze the core-weather values. 
 
-Pandas and Jupyter notebook were then used to preprocess the dataset for Principal Component Analysis (PCA) algorithm.
+Python's Pandas DataFrames in a Jupyter Notebook were used to preprocess the datasets for Principal Component Analysis (PCA) algorithm.
 
-PCA was then used to reduce the dimensions of the x DataFrame to three principal component, which were then placed in a new DataFrame
+PCA was then used to reduce the dimensions of the DataFrame to three principal components, which were then placed in a new DataFrame
 
-The best value for K and the predicted K clusters were found using the K-means algorithm. In this case, the best value for k was 4.
+The best value for K and the predicted K clusters were found using the K-means algorithm and an elbow curve. In this case, the best value for k was 4.
 
 
 ![Alt text](resources/Elbow%20Curve.png)
-
 
 
 
