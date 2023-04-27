@@ -43,10 +43,9 @@ The best value for K and the predicted K clusters were found using the K-means a
 
 
 
-Finally, a scatter plot was created using Plotly Express and hvplot. 
+An interesting and colorful plot was created using Plotly Express and hvplot. 
 
 ![Alt text](resources/3d%20scatter%20.png)
-
 
 The hvplot.table( ) function was used to create a table with all the core-weather values. This table is found within the code. 
 
@@ -54,7 +53,6 @@ A correlation matrix was also created to visualize the correlation coefficient b
 
 
 ![Alt text](resources/corrMatrix.png)
-
 
 ## Data Visualization
 Our final presentation will be done using google collab.  We will use Tableau in this project for some data visualization. Here is the link to our dashboard <https://public.tableau.com/shared/YY85W397W?:display_count=n&:origin=viz_share_link>
