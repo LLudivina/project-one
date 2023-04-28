@@ -16,7 +16,7 @@ Using Guam as an example, we looked at past climate data based on temperature, p
 Our question for this project was whether we can predict climate data for Guam for the year 2024 from past years' data 2013 - 2023.  Our hope is that we can use the measurements of how climate change is affecting the Guam over the past 10 years to predict what their next few years will be like, so that people can be educated world wide about how the devasting effects of climate change are affecting small territories and nations. 
 
 ## Data Source
-Since most of the farm areas are around the international airport, weather data from that station was obtained. According to the pacific farmer organizations, “ The farms of subsistence and small commercial producers are primarily located in the villages of Barrigada, Dededo, Merizo, Mangilao, and Yigo”. These areas are located around Guam's interntional airport. 
+Since most of the people in Guam (other than US military personnel) live and work around the international airport, weather data from that station was obtained. According to the pacific farmer organizations, “ The farms of subsistence and small commercial producers are primarily located in the villages of Barrigada, Dededo, Merizo, Mangilao, and Yigo”. These areas are located around Guam's interntional airport. 
 
 ![Alt text](resources/1.png)
 
