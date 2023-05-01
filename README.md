@@ -36,7 +36,7 @@ Python's Pandas DataFrames in a Jupyter Notebook were used to preprocess the dat
 
 PCA was then used to reduce the dimensions of the DataFrame to three principal components, which were then placed in a new DataFrame
 
-The best value for K and the predicted K clusters were found using the K-means algorithm and an elbow curve. In this case, the best value for k was 4.
+The best value for K and the predicted K clusters were found using the K-means algorithm and an elbow curve. In this case, the best value for k was 3.
 
 
 ![Alt text](resources/Elbow%20Curve.png)
