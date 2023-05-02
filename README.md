@@ -63,7 +63,8 @@ Our final presentation will be done using google collab.  We will use Tableau in
 
 <img width="633" alt="Screen Shot 2023-04-24 at 8 06 11 PM" src="https://user-images.githubusercontent.com/117120227/234164549-951fce58-cb84-4359-b98f-6dc7d695b470.png">
    
-   
+   https://public.tableau.com/app/profile/taylor.dacpano/viz/Sky_16825483013840/Dashboard3
+In the second dashboard we created visuals to display the average temperature along with visible distance for over the last 10 years. For each temperature recorded it was scaled by 10. For example, 2018 had the highest average dew point and air tempertaure of 25.8 and 28.0 degrees celisus. The visible distance was produced through the horizontal distance at which an object can be seen and identified.
 
 
 <img width="637" alt="Screen Shot 2023-04-24 at 7 12 54 PM" src="https://user-images.githubusercontent.com/117120227/234157504-492073e6-590c-48eb-a370-40d313ae9e5c.png">
