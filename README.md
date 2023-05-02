@@ -49,6 +49,10 @@ The following is a brief visual summary of the workflow for this model.
 ![Alt text](resources/Untitled2.png)
 
 
+![Alt text](resources/Untitled4.png)
+
+A correlation matrix was used to visualize the correlation coefficient between all-weather features.
+
 ## Data Visualization
 We will use Tableau for this project's visualizations. Data was uploaded into the Tableu, worksheets were created to work with the data, and dashboards were created to arrange the visuals.  Finally, an overall story was created using the dashboards.  Here is the link to our dashboard <https://public.tableau.com/shared/YY85W397W?:display_count=n&:origin=viz_share_link>
 
