@@ -1,0 +1,27 @@
+Data Exploration ideas
+
+1. Unique value count
+One of the first things which can be useful during data exploration is to see how many unique values are there in categorical columns. This gives an idea of what is the data about. 
+
+2. Frequency Count
+Frequency count is finding how frequent individual values occur in column.
+
+3. Variance
+When it comes to analysing numeric values, some basic information such as minimum, maximum and variance are very useful. Variance gives a good indication how the values are spread.
+
+4. Pareto Analysis
+Pareto analysis is a creative way of focusing on what is important. Pareto 80–20 rule can be effectively used in data exploration. How to create this in Python: https://www.statology.org/pareto-chart-python/
+
+5. Histogram
+Histogram are one of the data scientists favourite data exploration techniques. It gives information on the range of values in which most of the values fall. It also gives information on whether there is any skew in data.
+
+6. Correlation Heat-map between all numeric columns
+The term correlation refers to a mutual relationship or association between two things. In almost any business or for personal reasons, it is useful to express something in terms of its relationship with others. Finding correlation is very useful in data exploration, as it gives an idea on how the columns are related to each other. And one of the best ways to see correlation between numeric columns is using a heat-map. 
+
+7. Pearson Correlation and Trend between two numeric columns
+Once you have visualised correlation heat-map , the next step is to see the correlation trend between two specific numeric columns.
+
+8.  Specialised Visualizations
+Till now most of the visualisation you have seen are classic ones such as Bar chart, scatter plot etc.. However during the data exploration it is very valuable to add some specialised visualisation such as Radar Chart , Neural Network visualisation or Sankey charts
+
+It helps a lot to understand the data much better. Radar chart can help in comparison. While Neural network visualisation can help understand what combination of columns could be important features or also to understand hidden or latent features. Sankey charts can be very useful in making path analysis
