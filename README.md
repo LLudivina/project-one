@@ -49,7 +49,7 @@ The following is a brief visual summary of the workflow for this model.
 ![Alt text](resources/Untitled2.png)
 
 
-![Alt text](resources/Untitled4.png)
+![Alt text](resources/Untitled5.png)
 
 A correlation matrix was used to visualize the correlation coefficient between all-weather features.
 
