@@ -38,7 +38,7 @@ A total of 11 csv files were extracted from NOAA.  During the transformation pro
 The schema can be found in the resources folder.   The clean climate data was then loaded into a PostgreSQL Database.  Tables for the clean data were then created. 
 
 ## Machine Learning 
-Six specific climate variables were obtained from our postgreSQL database tables, loaded into a DataFrame, their values standarized, and an elbow curve was created. Based on that, the KMeans model with k=3 was used. Overall, unsupervised machine learning was selected for this project. Pandas, Jupyter notebook, and visual studio were used to preprocess the dataset for Principal Component Analysis (PCA) algorithm. Our data contained time series data that is usually analyzed with other algorithms that are beyond the scope of this course, so we used the unsupervised machine learning model.
+Six specific climate variables were obtained from our postgreSQL database tables, loaded into a DataFrame, their values standarized, and an elbow curve was created. Based on that, the KMeans model with k=3 was used. Overall, unsupervised machine learning was selected for this project. Pandas, Jupyter notebook, and visual studio were used to preprocess the dataset for Principal Component Analysis (PCA) algorithm. Our data contained time series data that is usually analyzed with other algorithms that are beyond the scope of this course, so we used the unsupervised machine learning model.  
 
 
 The following is a brief visual summary of the workflow for this model. 
@@ -69,7 +69,8 @@ We will use Tableau for this project's visualizations. Data was uploaded into th
 
 
 ## Conclusion
-Guam's climate showed some change by season by not so much by years. More to come.
+We found that the eleven years of climate data does not show much change over time other than the lowest clouds appear to be higher each year.  Perhaps there are other measures for Guam that would indicate the climate change is affecting their island, but our analysis did not show effects of climate change.  It would be good  to study other small islands to see how their weather has changed over the past decade in order to better understand how climate change affects the people there. These studies could help wealthier nations to help the people being affected by climate change.
+
 
 ## Resources
 Data was obtained from the National Centers for Environmental Information (NOAA)
